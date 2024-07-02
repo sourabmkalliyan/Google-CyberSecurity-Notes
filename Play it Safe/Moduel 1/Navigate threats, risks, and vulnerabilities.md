@@ -11,3 +11,11 @@ rate risks as low, medium or high depending on the potential impact.
 - **Vulnerabilities:** Weakness that can be exploited by a threat. Examples
 include outdates software, weak passwords, and unprotected data. Both 
 vulnerability and a threat must be present for there to risk.
+### Additional Ponts
+- People can also be considered a vulnerability due to their potential to 
+impact an organizations internal network.
+- Organizations must continually identify and mitigate vulnerabilities to minimize
+threats and risks.
+- Entry-Level secuirty analysts play a crucial role in educating and empowering people
+to be more security conscious, monitoring and documenting access to critical 
+assets, and encouraging employees to report suspicious activity.
