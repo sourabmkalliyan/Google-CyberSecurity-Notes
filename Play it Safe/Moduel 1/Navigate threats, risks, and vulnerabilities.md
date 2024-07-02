@@ -18,4 +18,4 @@ impact an organizations internal network.
 threats and risks.
 - Entry-Level secuirty analysts play a crucial role in educating and empowering people
 to be more security conscious, monitoring and documenting access to critical 
-assets, and encouraging employees to report suspicious activity.
+assets, and encouraging employees to report suspicious activity
