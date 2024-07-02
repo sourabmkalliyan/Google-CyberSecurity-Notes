@@ -12,4 +12,3 @@ they face and take steps to mitigate them.
 so it is important to have a plan in place to deal with it.
 - Protecting sensitive data is essential for avoiding
 identity theft and damage to an organization's reputation.
-- 
